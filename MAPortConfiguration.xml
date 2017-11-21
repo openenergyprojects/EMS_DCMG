@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PortConfigurations>
+    <MAPortConfig>
+        <PlatformName>DS1006</PlatformName>
+        <SystemDescriptionFile>C:\Users\mglab\Desktop\EnriqueDSPACE\Enrique_dSPACE\Variable Descriptions\four_invertersparallel.sdf\four_invertersparallel.sdf</SystemDescriptionFile>
+    </MAPortConfig>
+</PortConfigurations>
+
